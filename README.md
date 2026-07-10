@@ -11,14 +11,13 @@ Many public bounty issues attract duplicate low-quality pull requests. This tool
 ## Usage
 
 ```powershell
-cd C:\Users\akrk1\Documents\Eris
-& "C:\Users\akrk1\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" bounty_hunt\bounty_scanner.py --limit 100
+python bounty_scanner.py --limit 100
 ```
 
 The scan writes:
 
 ```text
-bounty_hunt/candidates.md
+candidates.md
 ```
 
 ## Current Filters
