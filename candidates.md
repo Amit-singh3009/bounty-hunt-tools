@@ -1,6 +1,6 @@
 # Bounty Candidate Report
 
-Generated: 2026-07-10 06:40 UTC
+Generated: 2026-07-11 04:51 UTC
 
 This report filters for JavaScript, TypeScript, and Python issues with bounty/good-first-issue signals, then penalizes crowded issues, stale repos, forks, and open PR collisions.
 
@@ -16,17 +16,7 @@ No unclaimed candidates found in this scan. The entries below are kept only as a
 - Labels: good first issue, bounty, medium
 - Collision PR: https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/8897
 
-## 2. Marketplace transition: fixed $SX bounties discontinued -> open-source + discretionary rewards
-
-- Status: skip: open PR collision
-- Score: 47
-- Repo: `bolivian-peru/marketplace-service-template` (TypeScript, stars 9, forks 116)
-- Issue: https://github.com/bolivian-peru/marketplace-service-template/issues/483
-- Comments: 1
-- Labels: none
-- Collision PR: https://github.com/bolivian-peru/marketplace-service-template/issues/483#issuecomment-4926386878
-
-## 3. [FR] Make a Replit starter kit, along with a video demo
+## 2. [FR] Make a Replit starter kit, along with a video demo
 
 - Status: skip: open PR collision
 - Score: 44
@@ -35,6 +25,16 @@ No unclaimed candidates found in this scan. The entries below are kept only as a
 - Comments: 1
 - Labels: enhancement, good first issue, bounty
 - Collision PR: https://github.com/nerobossai/nerosdk/pull/52
+
+## 3. [Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+
+- Status: skip: open PR collision
+- Score: 43
+- Repo: `Hazyshades/Sendly-Test-Repo` (TypeScript, stars 0, forks 23)
+- Issue: https://github.com/Hazyshades/Sendly-Test-Repo/issues/34
+- Comments: 1
+- Labels: bounty:1
+- Collision PR: https://github.com/Hazyshades/Sendly-Test-Repo/pull/65
 
 ## 4. Timer on the bounty
 
@@ -46,17 +46,7 @@ No unclaimed candidates found in this scan. The entries below are kept only as a
 - Labels: none
 - Collision PR: https://github.com/kodaksax/Bounty-production/pull/638
 
-## 5. [Bounty] Claim : Lead #BZ13
-
-- Status: skip: open PR collision
-- Score: 35
-- Repo: `bolivian-peru/marketplace-service-template` (TypeScript, stars 9, forks 116)
-- Issue: https://github.com/bolivian-peru/marketplace-service-template/issues/367
-- Comments: 2
-- Labels: none
-- Collision PR: https://github.com/bolivian-peru/marketplace-service-template/pull/491
-
-## 6. Governance Parameters - Separate Active and Inactive parameters into two lists 
+## 5. Governance Parameters - Separate Active and Inactive parameters into two lists 
 
 - Status: skip: open PR collision
 - Score: 31
@@ -66,17 +56,37 @@ No unclaimed candidates found in this scan. The entries below are kept only as a
 - Labels: bounty, enhancement, good first issue
 - Collision PR: https://github.com/Y-Foundry-Dao/yfd-dapp-core/pull/152
 
-## 7. vogon poetry
+## 6. vogon poetry
 
 - Status: skip: open PR collision
 - Score: 31
-- Repo: `dwebagents/AgentPipe` (Python, stars 202, forks 69)
+- Repo: `dwebagents/AgentPipe` (Python, stars 202, forks 70)
 - Issue: https://github.com/dwebagents/AgentPipe/issues/1928
 - Comments: 3
 - Labels: good first issue, bounty
 - Collision PR: https://github.com/dwebagents/AgentPipe/pull/1930
 
-## 8. ENHANCE : Redesigning full UI
+## 7. [Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+
+- Status: skip: open PR collision
+- Score: 31
+- Repo: `Hazyshades/Sendly-Test-Repo` (TypeScript, stars 0, forks 23)
+- Issue: https://github.com/Hazyshades/Sendly-Test-Repo/issues/36
+- Comments: 2
+- Labels: bounty:1
+- Collision PR: https://github.com/Hazyshades/Sendly-Test-Repo/pull/67
+
+## 8. [Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+
+- Status: skip: open PR collision
+- Score: 31
+- Repo: `Hazyshades/Sendly-Test-Repo` (TypeScript, stars 0, forks 23)
+- Issue: https://github.com/Hazyshades/Sendly-Test-Repo/issues/35
+- Comments: 2
+- Labels: bounty:1
+- Collision PR: https://github.com/Hazyshades/Sendly-Test-Repo/pull/66
+
+## 9. ENHANCE : Redesigning full UI
 
 - Status: skip: open PR collision
 - Score: 21
@@ -86,11 +96,11 @@ No unclaimed candidates found in this scan. The entries below are kept only as a
 - Labels: enhancement, good first issue, medium, bounty, code addition, jwoc, jwoc-accepted-issue
 - Collision PR: https://github.com/vedanshjainvj/VedEats/issues/3#issuecomment-2689387150
 
-## 9. Restore CC (Subtitles) Indicator on Channels' Videos Page
+## 10. Restore CC (Subtitles) Indicator on Channels' Videos Page
 
 - Status: skip: open PR collision
 - Score: -1
-- Repo: `code-charity/youtube` (JavaScript, stars 4468, forks 953)
+- Repo: `code-charity/youtube` (JavaScript, stars 4468, forks 954)
 - Issue: https://github.com/code-charity/youtube/issues/1522
 - Comments: 5
 - Labels: Feature request, help wanted, good first issue, up-for-grabs, Bounty

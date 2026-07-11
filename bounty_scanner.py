@@ -235,7 +235,7 @@ def build_report(candidates: list[dict]) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=50)
-    parser.add_argument("--out", default="bounty_hunt/candidates.md")
+    parser.add_argument("--out", default="candidates.md")
     args = parser.parse_args()
 
     queries = [
